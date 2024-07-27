@@ -9,7 +9,8 @@ Antibody therapies are mainly used in targeting unwanted cells in this context i
 # how does Trastuzumab work:
 Trastuzumab is a monoclonal antibody against human epidermal growth factor receptor 2 (HER2) meaning that it targets cancer cells that express HER2 protein.
 it acts by binding to the extracellular domain of HER2 and inhibits its homodimerization, preventing HER2-mediated signaling, It is also thought to facilitate antibody-dependent cellular cytotoxicity, leading to the death of cells that express HER2
-how does Bevacizumab work:
+
+# how does Bevacizumab work:
 Bevacizumab is a monoclonal antibody against vascular endothelial growth factor (VEGF) meaning that it targets cancer cells that express VEGF protein.
 VEGF helps cancer to grow blood vessels, so Bevacizumab acts by inhibiting tumor growth through multiple mechanisms including preventing the formation of new blood vessels (angiogenesis inhibition), inducing regression of newly formed vasculature and normalization of abnormal tumor blood vessels to improve cytotoxic agents’ delivery
 
