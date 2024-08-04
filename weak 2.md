@@ -11,5 +11,5 @@ Non-negative matrix factorization is a dimensionally reduction method, In the co
 ### How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
 the authors examined the similarity of the in vitro RHP with the in vivo RHP and found that 7 out of the 10 cell line RHPs are highly similar to the in vivo RHPs. This is supported by overlapping The RHPs with transcriptional programs identified in patient tumors, indicating that these RHPs are relevant to real tumor biology and not merely artifacts of cell culture.
 
-## additional resources used 
+## additional resources  
 - •	Zhu, Q., Zhao, X., Zhang, Y. et al. Single cell multi-omics reveal intra-cell-line heterogeneity across human cancer cell lines. Nat Commun 14, 8170 (2023). https://doi.org/10.1038/s41467-023-43991-9
