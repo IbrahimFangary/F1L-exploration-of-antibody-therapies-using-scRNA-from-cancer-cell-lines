@@ -4,4 +4,6 @@ analysis of scRNA seq data from cancer cell lines to explore using antibody ther
 
 ## this repository contains 
 ### weak1.md file 
-identifying the main key scientific question (KSQ), what are Trastuzumab and Bevacizumab? and what is scRNA seq for ?
+identifying the main key scientific question (KSQ), what are Trastuzumab and Bevacizumab? and what is scRNA seq for?
+### weak 2.md file 
+summarizing and identifying key points of the Kinker et al. study 
