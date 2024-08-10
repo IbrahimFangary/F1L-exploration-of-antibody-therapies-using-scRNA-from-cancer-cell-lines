@@ -7,10 +7,10 @@ Using available scRNA-seq data from cancer cell lines, how would you explore the
 - Trastuzumab: Targets HER2 and is used in the treatment of HER2-positive breast and gastric cancers.
 - Bevacizumab: Targets VEGF and is used for a variety of cancers, including colorectal, lung, glioblastoma, breast, liver, and kidney cancer.
 
-# what is meant by antibody therapies and how it works?
-Antibody therapies are mainly used in targeting unwanted cells in this context it's used to target cancer cell by binding to specific markers on cancer cells or tissue 
+# What is meant by antibody therapies and how does it work?
+Antibody therapies are mainly used in targeting unwanted cells in this context it's used to target cancer cells by binding to specific markers on cancer cells or tissue 
 
-# how does Trastuzumab work:
+# How does Trastuzumab work:
 Trastuzumab is a monoclonal antibody against human epidermal growth factor receptor 2 (HER2) meaning that it targets cancer cells that express HER2 protein.
 it acts by binding to the extracellular domain of HER2 and inhibits its homodimerization, preventing HER2-mediated signaling, It is also thought to facilitate antibody-dependent cellular cytotoxicity, leading to the death of cells that express HER2
 
@@ -24,7 +24,7 @@ scRNA technology allows  us to look at the gene expression of each cell type in 
 
 # weak 2: summarizing key points in the  Kinker et al. study 
 ### How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?
-The authors were aware of the potential caveat that co-culturing different CCLE cell lines will introduce due to the interaction between cells which may affect expression patterns so the authors tried to test patterns of heterogeneity in co culturing and each cell line individually and they found that Co-culturing had a modest effect on average gene expression in each cell line, while patterns of heterogeneity were highly consistent between the two conditions
+The authors were aware of the potential caveat that co-culturing different CCLE cell lines will introduce due to the interaction between cells which may affect expression patterns so the authors tried to test patterns of heterogeneity in co-culturing and each cell line individually and they found that Co-culturing had a modest effect on average gene expression in each cell line, while patterns of heterogeneity were highly consistent between the two conditions
 The co-culturing caveat was adequately addressed because the authors wanted to make sure that the heterogeneity within each cell line is due to intrinsic features of that cell line not due to the cell-cell interaction as they wanted to mimic the real complex system of cancer by modeling tumor microenvironment interactions and studying heterogeneity.
 ### What might be the reason why some cell lines have these discrete subpopulations while others do not?
 Intra-tumoral heterogeneity is common in cancer cell lines due to differences in gene expression patterns. These differences can arise from various factors, including genetic mutations, epigenetic modifications, or environmental influences such as nutrient availability or drug exposure. Conversely, some cell lines lack intra-tumoral heterogeneity, leading to the absence of discrete subpopulations within the cancer cell line. This homogeneity is often due to a more uniform cellular environment or fewer driving mutations that reduce variability.
@@ -37,7 +37,7 @@ the authors examined the similarity of the in vitro RHP with the in vivo RHP and
 
 
 
-## additional Resources:
+## Additional Resources:
 - NCI Dictionary of Cancer Terms. (n.d.). Cancer.gov. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/antibody-therapy
 - Johnson, K. C., Quiroga, D., Sudheendra, P., & Wesolowski, R. (2022). Treatment of small (T1mic, T1a, and T1b) node-negative HER2+ breast cancer – a review of current evidence for and against the use of anti-HER2 treatment regimens. Expert Review of Anticancer Therapy, 22(5), 505–522. https://doi.org/10.1080/14737140.2022.2063844
 - Greenblatt, K., & Khaddour, K. (2024, June 22). Trastuzumab. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK532246/
