@@ -37,5 +37,5 @@ The authors examined the similarity of the in vitro RHP with the in vivo RHP and
 1. Greenblatt, K., & Khaddour, K. (2024, June 22). Trastuzumab. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK532246/
 <!--2. Gerriets, V., & Kasi, A. (2023, August 28). Bevacizumab. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK482126/
 3. Ellis, L. M. (2006). Mechanisms of action of Bevacizumab as a component of therapy for metastatic colorectal cancer. Seminars in Oncology, 33, S1–S7. https://doi.org/10.1053/j.seminoncol.2006.08.002-->
-4. Kharchenko, P.V. The triumphs and limitations of computational methods for scRNA-seq. Nat Methods 18, 723–732 (2021). https://doi.org/10.1038/s41592-021-01171-x
-5. Zhu, Q., Zhao, X., Zhang, Y. et al. Single cell multi-omics reveal intra-cell-line heterogeneity across human cancer cell lines. Nat Commun 14, 8170 (2023). https://doi.org/10.1038/s41467-023-43991-9
+2. Kharchenko, P.V. The triumphs and limitations of computational methods for scRNA-seq. Nat Methods 18, 723–732 (2021). https://doi.org/10.1038/s41592-021-01171-x
+3. Zhu, Q., Zhao, X., Zhang, Y. et al. Single cell multi-omics reveal intra-cell-line heterogeneity across human cancer cell lines. Nat Commun 14, 8170 (2023). https://doi.org/10.1038/s41467-023-43991-9
