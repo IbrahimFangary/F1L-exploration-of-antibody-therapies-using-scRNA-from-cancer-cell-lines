@@ -1,25 +1,25 @@
-# F1L-exploration-of-antibody-therapies-using-scRNA-from-cancer-cell-lines
+## F1L-exploration-of-antibody-therapies-using-scRNA-from-cancer-cell-lines
 analysis of scRNA seq data from cancer cell lines to explore using antibody therapies like Trastuzumab <!-- and Bevacizumab -->in additional cancers
 
 
-# the key scientific question (KSQ)
+## the key scientific question (KSQ)
 Using available scRNA-seq data from cancer cell lines, how would you explore the use of the following FDA-approved antibody therapies in additional cancers?
 - Trastuzumab: Targets HER2 and is used in the treatment of HER2-positive breast and gastric cancers.
 <!-- - Bevacizumab: Targets VEGF and is used for a variety of cancers, including colorectal, lung, glioblastoma, breast, liver, and kidney cancer.-->
 
-# What is meant by antibody therapies and how does it work?
+## What is meant by antibody therapies and how does it work?
 Antibody therapies are mainly used in targeting unwanted cells in this context it's used to target cancer cells by binding to specific markers on cancer cells or tissue 
 
-# How does Trastuzumab work:
+## How does Trastuzumab work:
 Trastuzumab is a monoclonal antibody against human epidermal growth factor receptor 2 (HER2), meaning that it targets cancer cells that express the HER2 protein. It binds to the extracellular domain of HER2 and inhibits its homodimerization, thereby preventing HER2-mediated signaling. It is also thought to facilitate antibody-dependent cellular cytotoxicity, leading to the death of cells that express HER2. The FDA has approved it for targeting HER2-positive breast and gastric cancers. (1).
 <!--# how does Bevacizumab work:
 Bevacizumab is a monoclonal antibody against vascular endothelial growth factor A (VEGFA). VEGF helps cancer grow blood vessels, so Bevacizumab acts by inhibiting tumor growth through multiple mechanisms, including preventing the formation of new blood vessels (angiogenesis inhibition), inducing regression of newly formed vasculature, and normalizing abnormal tumor blood vessels to improve the delivery of cytotoxic agents. It is FDA-approved for glioblastoma, cervical cancer, colorectal cancer, non-squamous non-small cell lung cancer (NSCLC), ovarian, kidney, and liver cancer(2, 3).-->
 
-# Why do we use scRNA data 
+## Why do we use scRNA data 
 scRNA technology allows us to look at the gene expression of each cell type in any heterogeneous population of cells. Identifying cells and understanding their expression profiles help us see what genes specify each group of cells and target these genes. In this context, identifying cancer cell subtypes and analyzing their gene expression patterns would help us determine which other cancer cells express HER2 and VEGF proteins, allowing for targeted therapies such as Bevacizumab and Trastuzumab (2, 3).
 
 
-# weak 2: summarizing key points in the  Kinker et al. study 
+summarizing key points in the  Kinker et al. study 
 ### How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?
 The authors were aware of the potential caveat that co-culturing different CCLE cell lines could introduce due to cell interactions, which may affect expression patterns. To address this, they tested patterns of heterogeneity in both co-culturing and individual culturing of each cell line. They found that co-culturing had a modest effect on the average gene expression in each cell line, while patterns of heterogeneity were highly consistent between the two conditions. The co-culturing caveat was adequately addressed, as the authors aimed to ensure that the heterogeneity within each cell line was due to intrinsic features of that cell line, not cell-cell interactions. Their goal was to mimic the complex cancer system by modeling tumor microenvironment interactions and studying heterogeneity.
 ### What might be the reason why some cell lines have these discrete subpopulations while others do not?
