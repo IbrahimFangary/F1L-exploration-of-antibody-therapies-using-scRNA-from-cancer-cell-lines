@@ -4,4 +4,4 @@ Analysis of scRNA-seq data from cancer cell lines to explore the use of antibody
 
 This repository contains:
 - A `notebooks` directory with all Jupyter notebooks used for this analysis.
-- A `MEMO & Key Points.md` file summarizing key points from the Kinker et al. paper.
+- A `MEMO & Key Points.md` file summarizing key points from the [Kinker et al. paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135089/).
