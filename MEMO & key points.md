@@ -1,5 +1,5 @@
 # F1L-exploration-of-antibody-therapies-using-scRNA-from-cancer-cell-lines
-analysis of scRNA seq data from cancer cell lines to explore using antibody therapies like <!--Trastuzumab and Bevacizumab -->in additional cancers
+analysis of scRNA seq data from cancer cell lines to explore using antibody therapies like Trastuzumab <!-- and Bevacizumab -->in additional cancers
 
 
 # the key scientific question (KSQ)
